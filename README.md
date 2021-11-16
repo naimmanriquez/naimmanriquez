@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋, soy Naím
 
 <!--
 **naimmanriquez/naimmanriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+-->  
+* Soy doctor en Economía Regional por la Universidad Autonóma de Coahuila y realizo investigaciones sobre economía de las ciudades, desarrollo sostenible, econometría y estadística.
+* Impulsado por mi trabajo con grandes datos y encuestas de hogares, he desarrollado un interés creciente en la ciencia de datos y técnicas estadísticas. Las encuestas suelen ser demasiado grandes y requieren habilidades informáticas para trabajar con ellas. 
+* Disfruto dedicar tiempo a codificar en R y puedo pasar incontables horas en proyectos de visualización de datos.
+* Antes de ser investigador, realice estancias académicas en instituciones como el CIDE (Centro de Investigaciones y Docencia Económicas), la Universidad Nacional de Cuyo (Mendoza, Argentina) y la Universidad Nacional de la Patagonia Austral (Rio gallegos, Argentina).
