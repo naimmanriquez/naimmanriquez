@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 ## Lenguajes y herramientas
 * RStudio
+* Shiny
 * Stata
 * LaTeX
 * Python
