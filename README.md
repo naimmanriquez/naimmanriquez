@@ -1,5 +1,5 @@
 ### Hola 👋, soy Naím
-
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/naimmanriquez.svg?style=social&label=Follow%20%40naimmanriquez)](https://twitter.com/naimmanriquez)
 <!--
 **naimmanriquez/naimmanriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
