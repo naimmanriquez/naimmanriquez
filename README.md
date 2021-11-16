@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 * Antes de ser investigador, realice estancias académicas en instituciones como el CIDE (Centro de Investigaciones y Docencia Económicas), la Universidad Nacional de Cuyo (Mendoza, Argentina) y la Universidad Nacional de la Patagonia Austral (Rio gallegos, Argentina).
 
 ### Artículos de investigación en los que he participado
-[Reflexiones entorno a la economía solidaria](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-91762017000200011)
+* [Reflexiones entorno a la economía solidaria](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-91762017000200011)
