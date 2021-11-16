@@ -1,7 +1,5 @@
 ### Hola 👋, soy Naím
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=naimmanriquez)](https://github.com/gazf/github-readme-twitter)
-
 <!--
 **naimmanriquez/naimmanriquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
