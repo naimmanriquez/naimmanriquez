@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 
 ### Working Papers
 * [Farmers’ willingness to adopt chemical-free inputs and engage in collaborative arrangements: A discrete choice experiment in Mexico](https://econpapers.repec.org/scripts/search.pf?ft=naim+manriquez)
+
+## Lenguajes y herramientas
+* RStudio
+* Stata
+* LaTeX
+* Python
