@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 ### Artículos de investigación en los que he participado
 * [Reflexiones entorno a la economía solidaria](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-91762017000200011)
+* [Economía Regional en México: perspectivas y avances](http://www.cise.uadec.mx/downloads/LibrosElectronicos/LibroDCL-EconomiaRegional.pdf)
