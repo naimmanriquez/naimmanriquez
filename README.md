@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### Capítulos y artículos de investigación en los que he participado
 * [Reflexiones entorno a la economía solidaria](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-91762017000200011)
 * [Economía Regional en México: perspectivas y avances](http://www.cise.uadec.mx/downloads/LibrosElectronicos/LibroDCL-EconomiaRegional.pdf)
+* [Impuestos a la tierra y edificaciones en Mazatlán: una aproximación a los mecanismos de la economía conductual](http://www.erevistas.uadec.mx/index.php/EE/article/view/16)
 
 ### Working Papers
 * [Farmers’ willingness to adopt chemical-free inputs and engage in collaborative arrangements: A discrete choice experiment in Mexico](https://econpapers.repec.org/scripts/search.pf?ft=naim+manriquez)
