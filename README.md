@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 * [Reflexiones entorno a la economía solidaria](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-91762017000200011)
 * [Economía Regional en México: perspectivas y avances](http://www.cise.uadec.mx/downloads/LibrosElectronicos/LibroDCL-EconomiaRegional.pdf)
 * [Impuestos a la tierra y edificaciones en Mazatlán: una aproximación a los mecanismos de la economía conductual](http://www.erevistas.uadec.mx/index.php/EE/article/view/16)
+* [Evolución de la recaudación del Impuesto Sobre Adquisición de Inmuebles a partir de la expansión urbana de Mazatlán, Sinaloa](https://cimexus.umich.mx/index.php/cim1/article/view/352)
 * [El suicidio y sus determinantes socioeconómicos en México: un análisis de panel de datos para las entidades federativas](https://www.researchgate.net/profile/Naim-Manriquez-Garcia/publication/349442993_El_suicidio_y_sus_determinantes_socioeconomicos_en_Mexico_un_analisis_de_panel_de_datos_para_las_entidades_federativas_2010-2015/links/603133cba6fdcc37a83f2585/El-suicidio-y-sus-determinantes-socioeconomicos-en-Mexico-un-analisis-de-panel-de-datos-para-las-entidades-federativas-2010-2015.pdf)
 
 
