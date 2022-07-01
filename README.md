@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 * [Evolución de la recaudación del Impuesto Sobre Adquisición de Inmuebles a partir de la expansión urbana de Mazatlán, Sinaloa](https://cimexus.umich.mx/index.php/cim1/article/view/352)
 * [El suicidio y sus determinantes socioeconómicos en México: un análisis de panel de datos para las entidades federativas](https://www.researchgate.net/profile/Naim-Manriquez-Garcia/publication/349442993_El_suicidio_y_sus_determinantes_socioeconomicos_en_Mexico_un_analisis_de_panel_de_datos_para_las_entidades_federativas_2010-2015/links/603133cba6fdcc37a83f2585/El-suicidio-y-sus-determinantes-socioeconomicos-en-Mexico-un-analisis-de-panel-de-datos-para-las-entidades-federativas-2010-2015.pdf)
 * [Small-scale farmers’ willingness to adopt chemical-free inputs and en-gage in collaborative arrangements –A discrete choice experiment in Central Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/7254/6781)
+* [Comparación entre la cultura y los incentivos económicos para modificar la conducta del reciclaje: un enfoque desde la economía experimental en Mazatlán, Sinaloa.](https://www.researchgate.net/publication/360526063_COMPARACION_ENTRE_LA_CULTURA_Y_LOS_INCENTIVOS_ECONOMICOS_PARA_MODIFICAR_LA_CONDUCTA_DEL_RECICLAJE_UN_ENFOQUE_DESDE_LA_ECONOMIA_EXPERIMENTAL_EN_MAZATLAN_SINALOA)
 
 ### Working Papers
 * [Farmers’ willingness to adopt chemical-free inputs and engage in collaborative arrangements: A discrete choice experiment in Mexico](https://econpapers.repec.org/scripts/search.pf?ft=naim+manriquez)
