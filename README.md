@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Working Papers
 * [Farmers’ willingness to adopt chemical-free inputs and engage in collaborative arrangements: A discrete choice experiment in Mexico](https://econpapers.repec.org/scripts/search.pf?ft=naim+manriquez)
 
-### Notas en blogs, periodisticas y demas
+### Notas en blogs, periodisticas y redes sociales
 * [Día mundial sin automóvil, un respiro a las ciudades y al planeta](https://sonplayas.com/comunidad/dia-mundial-sin-automovil-un-respiro-a-las-ciudades-y-al-planeta/)
 * [Las deseconomías de aglomeración: una reflexión para el área urbana de Mazatlán](https://www.entreveredas.com.mx/2022/02/las-deseconomias-de-aglomeracion-una.html)
 
