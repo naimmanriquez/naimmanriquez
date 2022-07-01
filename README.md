@@ -28,9 +28,11 @@ Here are some ideas to get you started:
 * [El suicidio y sus determinantes socioeconómicos en México: un análisis de panel de datos para las entidades federativas](https://www.researchgate.net/profile/Naim-Manriquez-Garcia/publication/349442993_El_suicidio_y_sus_determinantes_socioeconomicos_en_Mexico_un_analisis_de_panel_de_datos_para_las_entidades_federativas_2010-2015/links/603133cba6fdcc37a83f2585/El-suicidio-y-sus-determinantes-socioeconomicos-en-Mexico-un-analisis-de-panel-de-datos-para-las-entidades-federativas-2010-2015.pdf)
 * [Small-scale farmers’ willingness to adopt chemical-free inputs and en-gage in collaborative arrangements –A discrete choice experiment in Central Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/7254/6781)
 
-
 ### Working Papers
 * [Farmers’ willingness to adopt chemical-free inputs and engage in collaborative arrangements: A discrete choice experiment in Mexico](https://econpapers.repec.org/scripts/search.pf?ft=naim+manriquez)
+
+### Notas en blogs, periodisticas y demas
+* [Día mundial sin automóvil, un respiro a las ciudades y al planeta](https://sonplayas.com/comunidad/dia-mundial-sin-automovil-un-respiro-a-las-ciudades-y-al-planeta/)
 
 ## Lenguajes y herramientas
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="30" height="30"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" width="30" height="30"> <img src="https://diegokoz.github.io/intro_ds_bookdown/img/shiny_logo.png" width="30" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30" height="30"> 
