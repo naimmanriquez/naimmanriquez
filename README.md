@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 * [Small-scale farmers’ willingness to adopt chemical-free inputs and en-gage in collaborative arrangements –A discrete choice experiment in Central Mexico](https://econoquantum.cucea.udg.mx/index.php/EQ/article/view/7254/6781)
 * [Comparación entre la cultura y los incentivos económicos para modificar la conducta del reciclaje: un enfoque desde la economía experimental en Mazatlán, Sinaloa.](https://www.researchgate.net/publication/360526063_COMPARACION_ENTRE_LA_CULTURA_Y_LOS_INCENTIVOS_ECONOMICOS_PARA_MODIFICAR_LA_CONDUCTA_DEL_RECICLAJE_UN_ENFOQUE_DESDE_LA_ECONOMIA_EXPERIMENTAL_EN_MAZATLAN_SINALOA)
 * [Objetivos de Desarrollo Sostenible: evaluaciones de las entidades federativas mexicanas.](http://www.coltam.edu.mx/wp-content/uploads/2022/11/ODS2_c.pdf)
+* [Diagnóstico del desarrollo regional sostenible: estudio de caso Durango, México.](https://publish.iberojournals.com/index.php/ECB/article/view/2/1)
 
 ### Working Papers
 * [Farmers’ willingness to adopt chemical-free inputs and engage in collaborative arrangements: A discrete choice experiment in Mexico](https://econpapers.repec.org/scripts/search.pf?ft=naim+manriquez)
