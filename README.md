@@ -41,5 +41,9 @@ Here are some ideas to get you started:
 * [Las deseconomías de aglomeración: una reflexión para el área urbana de Mazatlán](https://www.entreveredas.com.mx/2022/02/las-deseconomias-de-aglomeracion-una.html)
 * [¿Derrama económica o crecimiento económico?](https://www.entreveredas.com.mx/2022/03/derrama-economica-o-crecimiento.html)
 
+### Contacto y redes sociales
+* [Google Scholar](https://scholar.google.com/citations?user=g1pTG0UAAAAJ&hl=es)
+* [Researchgate](https://www.researchgate.net/profile/Naim-Manriquez-Garcia)
+
 ## Lenguajes y herramientas
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="30" height="30"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" width="30" height="30"> <img src="https://diegokoz.github.io/intro_ds_bookdown/img/shiny_logo.png" width="30" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30" height="30"> 
