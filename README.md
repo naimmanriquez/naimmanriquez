@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 ### Contacto y redes sociales
 * [Google Scholar](https://scholar.google.com/citations?user=g1pTG0UAAAAJ&hl=es)
 * [ResearchGate](https://www.researchgate.net/profile/Naim-Manriquez-Garcia)
+* [LinkedIn](https://www.linkedin.com/in/naim-manriquez-a1ab03a1/?originalSubdomain=mx)
+
 
 ## Lenguajes y herramientas
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="30" height="30"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png" width="30" height="30"> <img src="https://diegokoz.github.io/intro_ds_bookdown/img/shiny_logo.png" width="30" height="30"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30" height="30"> 
