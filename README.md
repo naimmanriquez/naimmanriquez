@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 * [Día mundial sin automóvil, un respiro a las ciudades y al planeta](https://sonplayas.com/comunidad/dia-mundial-sin-automovil-un-respiro-a-las-ciudades-y-al-planeta/)
 * [Las deseconomías de aglomeración: una reflexión para el área urbana de Mazatlán](https://www.entreveredas.com.mx/2022/02/las-deseconomias-de-aglomeracion-una.html)
 * [¿Derrama económica o crecimiento económico?](https://www.entreveredas.com.mx/2022/03/derrama-economica-o-crecimiento.html)
+* [Producción orgánica de mango en Escuinapa, Sinaloa: un aproximación a la economía solidaria en la región](https://www.boletinciudadesyregiones.org/2022/05/produccion-organica-de-mango-en.html)
+
 
 ### Contacto y redes sociales
 * [Google Scholar](https://scholar.google.com/citations?user=g1pTG0UAAAAJ&hl=es)
