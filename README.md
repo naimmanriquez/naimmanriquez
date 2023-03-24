@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 * Disfruto dedicar tiempo a codificar en R y puedo pasar incontables horas en proyectos de visualización de datos.
 * Antes de ser investigador, realice estancias académicas en instituciones como el CIDE (Centro de Investigaciones y Docencia Económicas), la Universidad Nacional de Cuyo (Mendoza, Argentina) y la Universidad Nacional de la Patagonia Austral (Rio Gallegos, Argentina).
 * Desde octubre de 2022 formo parte del Comité Operativo del Programa Nacional Estratégico de Vivienda del CONACYT - ProNacEs Vivienda. 
+* Formo parte de la Latin American Association of Environmental and Resource Economists. 
 * Actualmente, soy Miembro Honorífico del Sistema Sinaloense de Investigadores y Tecnólogos de la Coord. Gral. para el Fomento a la Investigación Cientifica del Gobierno de Sinaloa, México. Adicionalmente, soy Miembro del Sistema Nacional de Investigadores del CONACYT. 
 
 ### Libros y artículos de investigación en los que he participado
