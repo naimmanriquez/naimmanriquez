@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 * [Google Scholar](https://scholar.google.com/citations?user=g1pTG0UAAAAJ&hl=es)
 * [ResearchGate](https://www.researchgate.net/profile/Naim-Manriquez-Garcia)
 * [LinkedIn](https://www.linkedin.com/in/naim-manriquez-a1ab03a1/?originalSubdomain=mx)
+* [YouTube](https://www.youtube.com/@naimmanriquez)
 
 
 ## Lenguajes y herramientas
