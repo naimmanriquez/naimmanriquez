@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 * [Diagnóstico del desarrollo regional sostenible: estudio de caso Durango, México.](https://publish.iberojournals.com/index.php/ECB/article/view/2/1)
 * [Vulnerabilidad en la ciudad de Mazatlán: inundaciones y marginación](https://revistas.uncu.edu.ar/ojs/index.php/proyeccion/article/view/5745/5381)
 * [Pronósticos de ingresos durante la etapa postcovid: los pueblos mágicos de Sinaloa](https://github.com/naimmanriquez/ciencia_de_datos_turismo/blob/main/Material_adicional/pueblos_magicos.pdf)
-
+* [Determining elements of housing satisfaction in Mexico: analysis by estimating an Ordered Probit Model](https://revistavivienda.cuaad.udg.mx/index.php/rv/article/view/251/551)
 
 ### Working Papers
 * [Farmers’ willingness to adopt chemical-free inputs and engage in collaborative arrangements: A discrete choice experiment in Mexico](https://econpapers.repec.org/scripts/search.pf?ft=naim+manriquez)
