@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 * [Objetivos de Desarrollo Sostenible: evaluaciones de las entidades federativas mexicanas.](http://www.coltam.edu.mx/wp-content/uploads/2022/11/ODS2_c.pdf)
 * [Diagnóstico del desarrollo regional sostenible: estudio de caso Durango, México.](https://publish.iberojournals.com/index.php/ECB/article/view/2/1)
 * [Vulnerabilidad en la ciudad de Mazatlán: inundaciones y marginación](https://revistas.uncu.edu.ar/ojs/index.php/proyeccion/article/view/5745/5381)
+* [Pronósticos de ingresos durante la etapa postcovid: los pueblos mágicos de Sinaloa](https://github.com/naimmanriquez/ciencia_de_datos_turismo/blob/main/Material_adicional/pueblos_magicos.pdf)
 
 
 ### Working Papers
